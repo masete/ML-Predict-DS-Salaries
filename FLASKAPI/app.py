@@ -1,7 +1,6 @@
 import flask
 from flask import Flask, jsonify, request
 import json
-from wsgi import application
 from data_input import data_in
 import numpy as np
 import pickle
