@@ -1,4 +1,4 @@
-# ds_jobs_proj
+# ML Models to predict the avarage salary of a data role
 Data Science job prediction.
 
 ## Data Source
