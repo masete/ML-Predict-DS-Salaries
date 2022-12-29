@@ -51,3 +51,11 @@ After scraping the data, I needed to clean it up so that it was usable for our m
     * Spark 
 *	Column for simplified job title and Seniority 
 *	Column for description length 
+
+## EDA
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
+
+![alt text](https://github.com/masete/ML-Predict-DS-Salaries/blob/main/salary_by_job_title.PNG "Salary by Position")
+![alt text](https://github.com/masete/ML-Predict-DS-Salaries/blob/master/positions_by_state.png "Job Opportunities by State")
+![alt text](https://github.com/masete/ML-Predict-DS-Salaries/blob/master/correlation_visual.png "Correlations")
+
